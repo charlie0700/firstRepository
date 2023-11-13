@@ -1,2 +1,2 @@
 # firstRepository
-# This is a test for CSC099
+This is a test for CSC099
